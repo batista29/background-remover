@@ -1,6 +1,6 @@
 # Removedor de fundo com python
 
-* Programa para facilitar a exclusão de fundo em fontos.
+* Programa para transformar fotos jpeg e etc em png.
 
 ## Linguagem
 
